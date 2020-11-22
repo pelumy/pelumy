@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/pelumy/pelumy/main/banner.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/pelumy/pelumy/main/linked-in Banner.png" alt="Banner">
 
 <p align="center">I believe that the more you teach, the more you learn; so watch out for my <a href="https://www.youtube.com/channel/UCpLKBAAh_Du5nLE7ZW6AjQg">YouTube channel</a> you can learn how to code</p>
 
