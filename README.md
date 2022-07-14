@@ -4,7 +4,7 @@
 
 <p align="center">After being in the web development area of software development for a while, I recently dived into mobile development majoring in iOS development and writing the Swift language. I plan to understand backend development too. As a software engineer, the more I learn, the more I realize how much I still need to learn. When I am not writing code or fixing bugs, I am seeing animated movies or spending time with loved ones. I enjoy growth and look forward to growing everyday.</p>
 </p>
-
+<!--
 <p align="center">
   <a href="https://github.com/pelumy">
     <img src="https://img.shields.io/github/followers/pelumy?label=Follow&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -20,7 +20,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pelumy/count.svg" />
 </p>
-
+-->
 <!--
 **pelumy/pelumy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
