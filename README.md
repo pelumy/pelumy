@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/pelumy/pelumy/main/linked-in Banner.png" alt="Banner">
 
-<p align="center">After being in the web development area of software development for a while, I recently dived into mobile development majoring in iOS development and writing the Swift language. I plan to understand backend development too. As a software engineer, the more I learn, the more I realize how much I still need to learn. When I am not writing code or fixing bugs, I am seeing animated movies or spending time with loved ones. I enjoy growth and look forward to growing everyday.</p>
+<p align="center">After being in the web development area of software development for a while, I recently dived into mobile development majoring in iOS development and writing the Swift language. I plan to understand backend development too. As a software engineer, the more I learn, the more I realize how much I still need to learn. This is why I write <a href="https://medium.com/@raimi_itunu">technical articles </a> on things I learn while helping others learn too.</p>
+<p align="center">When I am not writing code or fixing bugs, I am seeing animated movies or spending time with loved ones. I enjoy growth and look forward to growing everyday.</p>
 </p>
 <!--
 <p align="center">
